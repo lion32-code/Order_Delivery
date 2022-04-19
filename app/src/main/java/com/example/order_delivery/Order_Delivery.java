@@ -13,7 +13,7 @@ public class Order_Delivery extends Application {
         super.onCreate();
         Parse.initialize(new Parse.Configuration.Builder(this)
                 .applicationId("ppwkyUgSD69n0LPhUB22zKo5BAzCCPfidmCGvbEr")
-                .clientKey("QvrQuB08ZNrgbYW7TIRFBHMZ9IyTzzz7Atc5JgB6")
+                .clientKey("yjjrxIe00LlVbo7DnkYFOIYoKDkwqnrja3YynidM")
                 .server("https://parseapi.back4app.com")
                 .build()
         );
